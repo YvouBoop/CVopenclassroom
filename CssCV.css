@@ -1,0 +1,36 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  width: 700px;
+
+}
+
+
+.side {
+  flex: 30%;
+  
+
+
+}
+
+
+.main {
+  flex: 70%;
+
+
+}
+
+
+@media screen and (max-width: 750px) {
+  .row, .navbar {   
+    flex-direction: column;
+    
+  }
+}
