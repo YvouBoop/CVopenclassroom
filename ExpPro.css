@@ -1,25 +1,10 @@
 
 
-.specialite2{
-	padding-left: 160px;
+.date{
 	font-size: 12px;
-}
-.specialite1{
-	padding-left: 50px;
-	font-size: 12px;
-}
-.specialite3{
-	padding-left: 44px;
-	font-size: 12px;
+	font-weight: bold;
 }
 .specialite{
-	padding-left: 75px;
-	font-size: 12px;
-}
-.specialite4{
-	padding-left: 140px;
-	font-size: 12px;
-}
-.date, .lieu{
-	font-size: 12px;
+	font-size:12px;
+	padding-left:100px;
 }
