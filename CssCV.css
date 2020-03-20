@@ -1,38 +1,41 @@
 
 * {
   box-sizing: border-box;
-  margin-left:auto;
-  margin-right:auto;
+  
+  margin :auto;
+  padding: auto;
+
+
 }
 
 
-.row {  
+.row { 
+  
+
   display: flex;
   flex-wrap: wrap;
   align-content: center;
   width: 700px;
+  
 
 }
 
 
 .side {
   flex: 30%;
-  
-
-
+ 
 }
 
 
 .main {
-  flex: 70%;
-
-
+  flex: 70
 }
 
 
 @media screen and (max-width: 700px) {
-  .row, .navbar {   
+    .row, .navbar {   
     flex-direction: column;
     
+
   }
 }
