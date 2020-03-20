@@ -1,6 +1,8 @@
 
 * {
   box-sizing: border-box;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 
@@ -28,7 +30,7 @@
 }
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 700px) {
   .row, .navbar {   
     flex-direction: column;
     
