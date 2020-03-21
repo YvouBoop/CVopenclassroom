@@ -1,19 +1,24 @@
 
 * {
   box-sizing: border-box;
+<<<<<<< HEAD
   margin: auto;    
+=======
+  margin :auto;
+  padding-top: auto;
+  padding-bottom: auto;
+
+
+>>>>>>> size
 }
 
 
 .row { 
-  
-
+   
   display: flex;
   flex-wrap: wrap;
   align-content: center;
   width: 700px;
-  
-
 }
 
 
