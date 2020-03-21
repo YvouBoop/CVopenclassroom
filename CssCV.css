@@ -1,21 +1,17 @@
 
 * {
   box-sizing: border-box;
-  margin : auto ;
+  margin:center;
 
     
 }
 
 
 .row { 
-  
-
   display: flex;
   flex-wrap: wrap;
-  align-content: center;
-  width: 700px;
   
-
+  width: 700px;
 }
 
 
@@ -26,7 +22,7 @@
 
 
 .main {
-  flex: 70
+  flex: 70%
 }
 
 
