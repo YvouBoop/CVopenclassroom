@@ -1,22 +1,19 @@
 
 * {
   box-sizing: border-box;
-
   margin :auto;
-  padding-top: auto;
-  padding-bottom: auto;
 
-
-
+ 
 }
 
 
 .row { 
-   
+  
   display: flex;
   flex-wrap: wrap;
   align-content: center;
   width: 700px;
+  
 }
 
 
@@ -27,10 +24,8 @@
 
 
 .main {
-  flex: 70%;
-}
-
-
-@media screen and (max-width: 700px) {
+  flex: 60%;
   
 }
+
+
