@@ -1,9 +1,7 @@
 
 * {
   box-sizing: border-box;
-  margin : auto ;
-
-    
+  margin: auto;    
 }
 
 
@@ -26,7 +24,7 @@
 
 
 .main {
-  flex: 70
+  flex: 70%;
 }
 
 
