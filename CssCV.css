@@ -1,23 +1,20 @@
 
 * {
   box-sizing: border-box;
-  
   margin :auto;
-  padding: auto;
+  padding-top: auto;
+  padding-bottom: auto;
 
 
 }
 
 
 .row { 
-  
-
+   
   display: flex;
   flex-wrap: wrap;
   align-content: center;
   width: 700px;
-  
-
 }
 
 
@@ -28,7 +25,7 @@
 
 
 .main {
-  flex: 70
+  flex: 70%;
 }
 
 
