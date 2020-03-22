@@ -1,10 +1,15 @@
 
 
 .date{
+	padding-left:5px;
 	font-size: 12px;
 	font-weight: bold;
 }
 .specialite{
+	
 	font-size:12px;
 	padding-left:100px;
+}
+.flottant{
+	float:left;
 }
