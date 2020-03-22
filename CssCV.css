@@ -2,30 +2,26 @@
 * {
   box-sizing: border-box;
   margin :auto;
-
- 
-}
+ }
 
 
 .row { 
-  
+
   display: flex;
   flex-wrap: wrap;
-  align-content: center;
   width: 700px;
-  
+
 }
 
 
 .side {
-  flex: 30%;
+  flex: 25%;
  
 }
 
 
 .main {
   flex: 60%;
-  
-}
+  }
 
 
