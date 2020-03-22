@@ -3,7 +3,9 @@
   box-sizing: border-box;
   margin :auto;
  }
-
+.body{
+	margin-top: auto;
+}
 
 .row { 
 
