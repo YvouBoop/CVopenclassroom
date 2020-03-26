@@ -3,6 +3,7 @@
 .prenom{
 	color:#feca07;
 	
+	
 
 }
 .souligne{
@@ -15,4 +16,8 @@
 
 .fas {
 	float:left;
+	
+}
+.espace{
+	padding-left:20px;
 } 
