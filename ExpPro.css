@@ -1,4 +1,4 @@
-.ExpPro, .Dformation{
+.ExpPro, .Dformation, .lesrecoms{
 	position:relative;
 }
 
@@ -11,7 +11,7 @@
 .specialite{
 	
 	position:absolute;
-	left:33%;
+	left:35%;
 	font-size:12px;
 }
 	
@@ -22,6 +22,6 @@
 }
 .reco2{
 	position:absolute;
-	left:60%;
+	left:40%;
 	font-size:11px;
 }
