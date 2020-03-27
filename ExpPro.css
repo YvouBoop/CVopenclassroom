@@ -12,8 +12,10 @@
 	position:absolute;
 	left:33%;
 	font-size:12px;
-	
 }
-.flottant{
-	float:left;
+	
+.localite{
+	position:absolute;
+	left:1%;
+	font-size:11px;
 }
