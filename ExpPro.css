@@ -3,12 +3,13 @@
 }
 
 .date{
+
 	padding-left:5px;
 	font-size: 12px;
 	font-weight: bold;
 }
 .specialite{
-	font-family: Georgia;
+	
 	position:absolute;
 	left:33%;
 	font-size:12px;
@@ -18,4 +19,9 @@
 	position:absolute;
 	left:1%;
 	font-size:11px;
+}
+.reco2{
+	position:absolute;
+	left:65%;
+	font-size:12px;
 }
