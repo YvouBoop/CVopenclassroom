@@ -18,11 +18,15 @@
 	padding-left:15px;
 	font-size: 0.5em;
 	color: #feca07;
+	float:left;
 }
 
 .fa-briefcase,.fa-graduation-cap,.fa-pencil-alt{
 	font-size:2em;
 	color:#feca07;
+}
+.fa-running,.fa-swimmer{
+	padding-left: 15px;
 }
 
 
