@@ -14,9 +14,20 @@
 	padding-left:20px;
 
 } 
-.fas{
+.fa-bullseye{
 	padding-left:15px;
+	font-size: 0.5em;
+	color: #feca07;
 }
+
+.fa-briefcase,.fa-graduation-cap,.fa-pencil-alt{
+	font-size:2em;
+	color:#feca07;
+}
+
+
+
+
 .localite{
 	padding-left:29px;
 	font-size:13px;
