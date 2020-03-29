@@ -1,19 +1,18 @@
+h1{
+	font-size: 30px;
+}
+
 .prenom{
 	color:#feca07;
 }	
 	
-
-
 .souligne{
 	font-size: 18px;
 	color:#feca07;
 	text-decoration: underline;
 }
 	
-.espace{
-	padding-left:20px;
 
-} 
 .fa-bullseye{
 	padding-left:15px;
 	font-size: 0.5em;
@@ -32,7 +31,4 @@
 
 
 
-.localite{
-	padding-left:29px;
-	font-size:13px;
-}
+
