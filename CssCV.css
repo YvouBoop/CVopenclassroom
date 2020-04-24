@@ -27,4 +27,26 @@
   flex: 60%;
   }
 
+@media screen and (max-width : 600px){
+  .row{
+    display:flex;
+    flex-direction:column-reverse;
+    width:300px;
+    margin:0 auto;
+  }
+  .recommandation{
+    padding-left:0px;
+
+  }
+  .reco2{
+    padding-left:35px;
+  }
+  .PartieG{
+    margin-top: 10px;
+
+  }
+
+
+}
+
 
