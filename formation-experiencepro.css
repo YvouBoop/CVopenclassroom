@@ -26,6 +26,11 @@
 .separation{
 	color:#feca07;
 }
+@media screen and (max-width : 600px){
+	.specialite{
+    padding-left:35px;
+  }
+}
 
 
 
