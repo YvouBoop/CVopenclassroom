@@ -1,4 +1,12 @@
+.lesrecoms{
+	position:relative;
+}
 .recommandation{
 	font-size :11px;
-	padding-left: 20px;
+	padding-left: 15px;
+}
+.reco2{
+	position:absolute;
+	left:40%;
+	font-size:11px;
 }
