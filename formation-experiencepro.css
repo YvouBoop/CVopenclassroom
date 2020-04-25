@@ -1,6 +1,12 @@
 .experience-pro, .formation-scolaire{
 	position:relative;
 }
+.fa-bullseye{
+  padding-left:15px;
+  font-size: 0.5em;
+  color: #feca07;
+  float:left;
+}
 .fa-briefcase,.fa-graduation-cap{
 	font-size:2em;
 	color:#feca07;
