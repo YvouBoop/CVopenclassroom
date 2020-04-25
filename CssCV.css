@@ -21,11 +21,15 @@
   flex: 25%;
  
 }
-
-
 .main {
   flex: 60%;
   }
+.fa-bullseye{
+  padding-left:15px;
+  font-size: 0.5em;
+  color: #feca07;
+  float:left;
+}
 
 @media screen and (max-width : 600px){
   .row{
@@ -35,9 +39,7 @@
     margin:0 auto;
   }
   
-  .reco2{
-    padding-left:40px;
-  }
+  
   .PartieG{
     margin-top: 10px;
 
