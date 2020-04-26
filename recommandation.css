@@ -1,22 +1,25 @@
-.fa-pencil-alt{
-	font-size:2em;
-	color:#feca07;
-}
-.lesrecommandations{
-	position:relative;
-}
-.recommandation1{
-	font-size :11px;
-	padding-left: 0px;
-}
-.recommandation2{
-	position:absolute;
-	left:40%;
-	font-size:11px;
+.fa-pencil-alt {
+    font-size: 2em;
+    color: #feca07;
 }
 
-@media screen and (max-width : 600px){
-	.recommandation2{
-    padding-left:40px;
-  }
+.lesrecommandations {
+    position: relative;
+}
+
+.recommandation1 {
+    font-size: 11px;
+    padding-left: 0px;
+}
+
+.recommandation2 {
+    position: absolute;
+    left: 40%;
+    font-size: 11px;
+}
+
+@media screen and (max-width : 600px) {
+    .recommandation2 {
+        padding-left: 40px;
+    }
 }

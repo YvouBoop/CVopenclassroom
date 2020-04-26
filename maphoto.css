@@ -1,12 +1,13 @@
-.maphoto{	
-		
-	width:200px;
-	text-align: center;
-	background-color: #feca07;
-	}
-@media screen and (max-width : 600px){	
-.maphoto{
-    margin-top: 10px;
+.maphoto {
 
-  }	
+    width: 200px;
+    text-align: center;
+    background-color: #feca07;
+}
+
+@media screen and (max-width : 600px) {
+    .maphoto {
+        margin-top: 10px;
+
+    }
 }

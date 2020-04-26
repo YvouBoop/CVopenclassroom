@@ -1,41 +1,48 @@
-.experience-pro, .formation-scolaire{
-	position:relative;
-}
-.fa-bullseye{
-  padding-left:15px;
-  font-size: 0.5em;
-  color: #feca07;
-  float:left;
-}
-.fa-briefcase,.fa-graduation-cap{
-	font-size:2em;
-	color:#feca07;
+.experience-pro,
+.formation-scolaire {
+    position: relative;
 }
 
-.date{
-	color:black;
-	padding-left:5px;
-	font-size: 11px;
-	font-weight: bold;
+.fa-bullseye {
+    padding-left: 15px;
+    font-size: 0.5em;
+    color: #feca07;
+    float: left;
 }
-.specialite{	
-	position:absolute;
-	left:35%;
-	font-size:12px;
+
+.fa-briefcase,
+.fa-graduation-cap {
+    font-size: 2em;
+    color: #feca07;
 }
-	
-.localite{
-	position:absolute;
-	left:5%;
-	font-size:10px;
+
+.date {
+    color: black;
+    padding-left: 5px;
+    font-size: 11px;
+    font-weight: bold;
 }
-.separation{
-	color:#feca07;
+
+.specialite {
+    position: absolute;
+    left: 35%;
+    font-size: 12px;
 }
-@media screen and (max-width : 600px){
-	.specialite{
-    padding-left:35px;
-  }
+
+.localite {
+    position: absolute;
+    left: 5%;
+    font-size: 10px;
+}
+
+.separation {
+    color: #feca07;
+}
+
+@media screen and (max-width : 600px) {
+    .specialite {
+        padding-left: 35px;
+    }
 }
 
 

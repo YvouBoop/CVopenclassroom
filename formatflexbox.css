@@ -1,35 +1,34 @@
-
 * {
-  box-sizing: border-box;
-  margin :auto;
- }
-
-.body{
-	margin-top: auto;
+    box-sizing: border-box;
+    margin: auto;
 }
 
-.moncv { 
-  display: flex;
-  flex-wrap: wrap;
-  width: 700px;
-  margin-top:20px;
+.body {
+    margin-top: auto;
+}
+
+.moncv {
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    margin-top: 20px;
 }
 
 .partiejaune {
-  flex: 25%;
+    flex: 25%;
 }
 
 .partieblanche {
-  flex: 60%;
+    flex: 60%;
 }
 
-@media screen and (max-width : 600px){
-  .moncv{
-    display:flex;
-    flex-direction:column-reverse;
-    width:300px;
-    margin:0 auto;
-  }
+@media screen and (max-width : 600px) {
+    .moncv {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 300px;
+        margin: 0 auto;
+    }
 }
 
 
