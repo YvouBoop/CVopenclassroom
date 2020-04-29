@@ -26,10 +26,8 @@
     .moncv {
         display: flex;
         flex-direction: column-reverse;
-        flex-wrap:wrap;
+        flex-wrap: wrap;
         width: 300px;
         margin: 0 auto;
     }
 }
-
-
