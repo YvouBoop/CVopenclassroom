@@ -14,11 +14,11 @@
     margin-top: 20px;
 }
 
-.partiejaune {
+.partie-jaune {
     flex: 25%;
 }
 
-.partieblanche {
+.partie-blanche {
     flex: 60%;
 }
 
