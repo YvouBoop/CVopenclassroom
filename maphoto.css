@@ -5,9 +5,10 @@
     background-color: #feca07;
 }
 
-@media screen and (max-width : 600px) {
+@media screen and (max-width : 700px) {
     .maphoto {
         margin-top: 10px;
+        width:300px;
 
     }
 }

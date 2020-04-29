@@ -39,7 +39,7 @@
     color: #feca07;
 }
 
-@media screen and (max-width : 600px) {
+@media screen and (max-width : 700px) {
     .specialite {
         padding-left: 35px;
     }
